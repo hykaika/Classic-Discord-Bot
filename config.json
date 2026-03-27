@@ -1,0 +1,8 @@
+{
+    "token": "YOUR_BOT_TOKEN",
+    "prefix": "/",
+    "welcome_channel_id": 0,
+    "level_channel_id": 0,
+    "report_channel_id": 0,
+    "member_role_id": 0
+}
